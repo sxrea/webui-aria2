@@ -7,7 +7,5 @@
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-static"
-    }, {
-      "url": "https://github.com/amivin/aria2-heroku"
     }]
 }
